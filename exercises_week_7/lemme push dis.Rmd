@@ -1,0 +1,2 @@
+r_png_url <- "https://i.programmerhumor.io/2025/12/0d0302a1004921643b9140466d352516c2ab4a485cd932c7f41752ecc4fa8452.png"
+r_png_url
